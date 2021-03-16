@@ -1,0 +1,13 @@
+C:\project\fa4\OrdersMS\src\main\java\com\infosys\fa4project\Order\repository\OrderRepository.java
+C:\project\fa4\OrdersMS\src\main\java\com\infosys\fa4project\Order\entity\OrderStatus.java
+C:\project\fa4\OrdersMS\src\main\java\com\infosys\fa4project\Order\entity\ProductsOrdered.java
+C:\project\fa4\OrdersMS\src\main\java\com\infosys\fa4project\Order\service\OrderService.java
+C:\project\fa4\OrdersMS\src\main\java\com\infosys\fa4project\Order\dto\ProductsOrderedDTO.java
+C:\project\fa4\OrdersMS\src\main\java\com\infosys\fa4project\Order\service\ProductsOrderedService.java
+C:\project\fa4\OrdersMS\src\main\java\com\infosys\fa4project\Order\controller\ProductsOrderedController.java
+C:\project\fa4\OrdersMS\src\main\java\com\infosys\fa4project\Order\entity\ProductsOrderedPk.java
+C:\project\fa4\OrdersMS\src\main\java\com\infosys\fa4project\Order\repository\ProductsOrderedRepository.java
+C:\project\fa4\OrdersMS\src\main\java\com\infosys\fa4project\Order\entity\Order.java
+C:\project\fa4\OrdersMS\src\main\java\com\infosys\fa4project\Order\controller\OrderController.java
+C:\project\fa4\OrdersMS\src\main\java\com\infosys\fa4project\Order\dto\OrderDTO.java
+C:\project\fa4\OrdersMS\src\main\java\com\infosys\fa4project\Order\OrderApplication.java
